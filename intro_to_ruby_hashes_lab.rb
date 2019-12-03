@@ -49,7 +49,7 @@ def monopoly_with_fourth_tier
           :mortgage_value => "$34"
         },
         :reading_railroad => {
-          :mortgage_value => Integer
+          :mortgage_value => '$' + Integer
         }
       },
       
